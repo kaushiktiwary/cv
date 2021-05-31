@@ -1,0 +1,27 @@
+body{
+  background-color:#fee2b3;
+    font-family:cursive;
+}
+h1{
+  color:#ad6989;
+}
+hr{
+  height:10px;
+  border-width:8px;
+  border-color: #ffa299;
+  border-style:none;
+  border-top-style: dotted;
+  width:7%;
+}
+.lastLine{
+  width:100%;
+   border-style:inset;
+   height:1px;
+   border-width:1px;
+}
+.aboutme:hover{
+  background-color:#fce8c5;
+}
+img{
+  border-radius: 100%;
+}
